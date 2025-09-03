@@ -10,10 +10,20 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
   </head>
   <body>
+    <!-- Video Background -->
+    <video class="video-bg" autoplay muted loop playsinline>
+      <source src="assets/bg.mp4.webm" type="video/webm">
+      <!-- Fallback for browsers that don't support video -->
+      Your browser does not support the video tag.
+    </video>
+    
+    <!-- Video Overlay for better text readability -->
+    <div class="video-overlay"></div>
+    
     <div class="wrapper">
       <header>English Dictionary</header>
       <div class="search">
-        <input type="text" placeholder="Search a word" required spellcheck="false">
+        <input type="text" placeholder="Search a word" required spellcheck="false" autocomplete="off">
         <i class="fas fa-search"></i>
         <span class="material-icons">close</span>
       </div>
