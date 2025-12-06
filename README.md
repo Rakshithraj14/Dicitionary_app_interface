@@ -1,8 +1,8 @@
 # 📚 English Dictionary App
 
-A beautiful, interactive English dictionary application with video background and modern glass-morphism UI design. Built with vanilla HTML, CSS, and JavaScript, featuring real-time word definitions, pronunciation, and synonyms.
+A beautiful, interactive English dictionary application with video background and modern glass-morphism UI design. Built with vanilla HTML, CSS, and JavaScript, featuring real-time word definitions and a stunning user experience.
 
-![Dictionary App](https://img.shields.io/badge/Dictionary-App-blue) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Dictionary App](https://img.shields.io/badge/Dictionary-App-blue) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
 
 ## ✨ Features
 
@@ -45,10 +45,10 @@ A beautiful, interactive English dictionary application with video background an
    ```bash
    # Using Python
    python -m http.server 8000
-   
+
    # Using Node.js
    npx serve .
-   
+
    # Using PHP
    php -S localhost:8000
    ```
@@ -110,3 +110,5 @@ https://api.dictionaryapi.dev/api/v2/entries/en/{word}
 - **Hover Effects**: Scale, translate, and shadow changes
 - **Loading States**: Spinning loader with gradient colors
 - **Interactive Feedback**: Pulse animations on clicks
+
+Built with ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖
